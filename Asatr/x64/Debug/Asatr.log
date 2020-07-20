@@ -1,0 +1,12 @@
+﻿  uic Asatr.ui
+  rcc Asatr.qrc
+   RCC: Warning: No resources in 'E:\GitHub\Asatr\Asatr.qrc'.
+  Node.cpp
+  Signal.cpp
+  Switch.cpp
+  Track.cpp
+  Asatr.cpp
+  main.cpp
+  moc_Asatr.cpp
+  qrc_Asatr.cpp
+  Asatr.vcxproj -> E:\GitHub\Asatr\x64\Debug\Asatr.exe

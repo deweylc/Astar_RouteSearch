@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Asatr", "Asatr.vcxproj", "{94B6D077-BCC2-4A1F-9212-9241952DDB72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B6D077-BCC2-4A1F-9212-9241952DDB72}.Debug|x64.ActiveCfg = Debug|x64
+		{94B6D077-BCC2-4A1F-9212-9241952DDB72}.Debug|x64.Build.0 = Debug|x64
+		{94B6D077-BCC2-4A1F-9212-9241952DDB72}.Release|x64.ActiveCfg = Release|x64
+		{94B6D077-BCC2-4A1F-9212-9241952DDB72}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9A52BEF-1DCD-4341-8DDE-6B531D490B8D}
+	EndGlobalSection
+EndGlobal
